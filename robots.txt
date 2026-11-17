@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /privacy
+Disallow: /terms
+
+Sitemap: https://fayettevillerodentcontrol.com/sitemap.xml
+Sitemap: https://fayettevillerodentcontrol.com/image-sitemap.xml

@@ -1,0 +1,11 @@
+{
+  "name": "Fayetteville Rodent Control",
+  "short_name": "FRC",
+  "icons": [
+    {"src": "/favicon.ico", "sizes": "32x32", "type": "image/x-icon"},
+    {"src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ],
+  "theme_color": "#D72638",
+  "background_color": "#0F1419",
+  "display": "standalone"
+}
